@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidForBeginner</string>
+    <string name="hint">Message</string>
+    <string name="sent">Sent Message</string>
 </resources>
