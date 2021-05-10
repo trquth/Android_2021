@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidForBeginner</string>
+    <string name="to">To:</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send_btn">SEND</string>
 </resources>
