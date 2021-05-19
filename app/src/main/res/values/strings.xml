@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">AndroidForBeginner</string>
+    <string name="app_name">South East Asian</string>
+    <string-array name="asian_countries">
+        <item>Vietnam</item>
+        <item>Indonesia</item>
+        <item>Philippines</item>
+        <item>Thailand</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Myanmar (Burma)</item>
+        <item>Cambodia</item>
+        <item>Laos</item>
+        <item>Brunei</item>
+        <item>Timor-Leste</item>
+    </string-array>
 </resources>
