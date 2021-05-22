@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        rettrieveData();
+        retrieveData();
     }
 
     @Override
@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(),"Saved data",Toast.LENGTH_LONG).show();
     }
 
-    public  void rettrieveData(){
+    public  void retrieveData(){
         sharedPreferences= getSharedPreferences("temp_data", Context.MODE_PRIVATE);
         title = sharedPreferences.getString("title_key","");
         description = sharedPreferences.getString("description_key","");
